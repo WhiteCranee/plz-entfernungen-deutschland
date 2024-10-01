@@ -5,7 +5,7 @@ Dieses Repository enthält Entfernungsdaten zwischen deutschen Postleitzahlen (P
 
 Die Daten werden in der Datei bereitgestellt und haben folgendes Format:
 
-| PLZ_1  | PLZ_2  | Entfernung (km) |
+| plz_from  | plz_to  | distance |
 |--------|--------|-----------------|
 | 01067  | 01067  | 0               |
 | 01067  | 01069  | 3               |
